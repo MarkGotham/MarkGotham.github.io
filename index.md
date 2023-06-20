@@ -95,6 +95,6 @@ When|Where|What
 
 When|Where|What
 ---|---|---
-2011–15|King’s College|University of Cambridge | Ph.D. in Music Theory (Newton Trust Scholarship)
-2008–09|Royal Northern College of Music|MMus in composition (A.H.R.C. scholarship)
-2005–08|Christ Church, University of Oxford|B.A. Music (First Class, Gibbs prize for the highest score in the subject)
+2011–15|King’s College,<br />University of Cambridge | Ph.D. in Music Theory<br />(Newton Trust Scholarship)
+2008–09|Royal Northern College of Music|MMus in composition<br />(A.H.R.C. scholarship)
+2005–08|Christ Church, University of Oxford|B.A. Music (First Class),<br />Gibbs prize for the highest score in the subject
