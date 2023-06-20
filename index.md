@@ -1,6 +1,5 @@
-# Mark R. H. Gotham, PhD
-
-Thanks for your interest and visit!
+Hello, Mark Gotham here,
+thanks for your interest and visit!
 There's a lot of websites out there with partially overlapping information.
 This site is a good faith attempt to act as a signpost.
 I'll keep it as succinct as possible, with
