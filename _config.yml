@@ -1,0 +1,54 @@
+# title, used in various places
+title: Mark Gotham
+
+
+# short description
+description: Mark Gotham, personal website
+
+
+# filenames of pages that should appear in the main menu.
+header_pages:
+  - research.md
+  - composition.md
+  - access.md
+
+
+lang: en_GB
+
+
+# Social / external
+twitter:
+  username: MarkGothamMusic
+linkedin:
+  username: mark-gotham-66127444
+github:
+  username: MarkGotham
+scholar:
+  username: bA0PEo0AAAAJ
+
+
+# "/page/" instead of "/page.html".
+permalink: pretty
+
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+theme: minima
+
+
+# Jekyll plugins
+plugins:
+  - jekyll-feed
+  - jekyll-relative-links
+
+
+# exclude from processing by Jekyll:
+# exclude:
+#  - XXX
+
+
+# Enable the relative links plugin.
+relative_links:
+  enabled: true
