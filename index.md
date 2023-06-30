@@ -32,7 +32,8 @@ Click to jump to the section.
 - Research (lists of Publications):
   - [ORCID](https://orcid.org/0000-0003-0722-3074), 
   - [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=bA0PEo0AAAAJ),
-  - [Semantic Scholar](https://www.semanticscholar.org/author/Mark-R.-H.-Gotham/28367380)
+  - [Semantic Scholar](https://www.semanticscholar.org/author/Mark-R.-H.-Gotham/28367380),
+  - [Web of Science](https://www.webofscience.com/wos/author/record/IUN-5075-2023)
 - Composition:
   - Scores
      - [IMSLP: View PDFs for most that are "done"](https://imslp.org/wiki/Category:Gotham%2C_Mark),
