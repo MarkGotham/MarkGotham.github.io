@@ -8,10 +8,11 @@ description: Mark Gotham, personal website
 
 # filenames of pages that should appear in the main menu.
 header_pages:
-  - research.md
+  - biography.md
   - composition.md
-  - access.md
-
+  - cv.md
+  - media-industry.md
+  - research.md
 
 lang: en_GB
 
