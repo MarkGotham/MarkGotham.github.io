@@ -19,8 +19,8 @@ On this page:
 ### Coming soon
 
 - Gotham 2023 (in press): “Chromatic Chords in Theory and Practice ” ISMIR 2023
-- Johnson \& Gotham 2023 (in press): “Musical Micro-Timing for Live Coding.” ISMIR 2023.
-- Gotham, Micchi, Nápoles López, Sailor 2023 (in press): “When in Rome”, TISMIR
+- Johnson & Gotham 2023 (in press): “Musical Micro-Timing for Live Coding.” ISMIR 2023.
+- Gotham, Micchi, Nápoles López, & Sailor 2023 (in press): “When in Rome”, TISMIR
 
 ## Invited Talks
 
