@@ -1,8 +1,8 @@
 # CV
 
 Here's a brief overview of the "CV" / "Resume" in the form of:
-- [University Positions](#University), and
-- [Education](#Education)
+- [University Positions](#university-positions), and
+- [Education](#education)
 
 
 ## University Positions
