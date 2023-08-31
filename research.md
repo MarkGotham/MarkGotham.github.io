@@ -55,4 +55,6 @@ Thanks to all the collaborators and hosts involved!
 [Some talks and related conference videos can be viewed on YouTube here](https://www.youtube.com/@markgotham8699).
 For example, click the poster below for a very succinct 3 min intro to a 2021 ISMIR paper:
 
-[![ISMIR 2021 paper intro](images/When_What_Poster.pdf)](https://www.youtube.com/watch?v=iFjeorX6juo).
+<object data="images/When_What_Poster.pdf" type="application/pdf" width="700px" height="700px">
+<a href="https://www.youtube.com/watch?v=iFjeorX6juo">ISMIR</a>
+</object>
