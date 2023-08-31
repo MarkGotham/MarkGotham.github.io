@@ -1,5 +1,3 @@
-# Composition
-
 I describe myself as a "composer theorist" in the sense of *writing music* inspired by theoretical, structural ideas and doing *music theory research* that self and motivated by questions from composition.
 
 ## Overview
@@ -29,7 +27,7 @@ It was then selected for performance by the Kalimera Quartet at the [VI Internat
 
 Title | Year | Forces | IMSLP Score | Audio/Video | Notes
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
-4x4x4x4|2021|String Quartet|Coming soon|[MuseScore](https://musescore.com/user/8641586/scores/6803044);</br>[YouTube](https://youtu.be/NKtgcLea8nk?feature=shared&t=1873)|[Textbook chapter](https://viva.pressbooks.pub/openmusictheory/chapter/composing-with-twelve-tones/)
+4x4x4x4|2021|String Quartet|Coming soon|[MuseScore](https://musescore.com/user/8641586/scores/6803044);<br/>[YouTube](https://youtu.be/NKtgcLea8nk?feature=shared&t=1873)|[Textbook chapter](https://viva.pressbooks.pub/openmusictheory/chapter/composing-with-twelve-tones/)
 
 ### New piece + Hensel arrangments for the Marsyas Trio
 
@@ -44,7 +42,7 @@ Details as follows:
 
 Title | Year | Forces | IMSLP Score | Audio | Notes
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
-Overture in C major|2023|Flute, cello, piano|[Score](https://s9.imslp.org/files/imglnks/usimg/3/3b/IMSLP860693-PMLP1350063-Hensel_Overture_arr_Gotham_Piano-Score.pdf); or via the "arrangements" tab of the [main page](https://imslp.org/wiki/Overture_in_C_major_(Hensel%2C_Fanny))|[MuseScore](https://musescore.com/user/8641586/scores/11096074);</br>CD coming soon|Hensel's only orchestral work
+Overture in C major|2023|Flute, cello, piano|[Score](https://s9.imslp.org/files/imglnks/usimg/3/3b/IMSLP860693-PMLP1350063-Hensel_Overture_arr_Gotham_Piano-Score.pdf); or via the "arrangements" tab of the [main page](https://imslp.org/wiki/Overture_in_C_major_(Hensel%2C_Fanny))|[MuseScore](https://musescore.com/user/8641586/scores/11096074);<br/>CD coming soon|Hensel's only orchestral work
 Trio in D minor|2023|Flute, cello, piano|[New flute part](https://s9.imslp.org/files/imglnks/usimg/d/df/IMSLP865724-PMLP70387-Hensel_Trio_Flute_part.pdf); or via the "arrangements" tab of the [main page](https://imslp.org/wiki/Piano_Trio,_Op.11_(Hensel,_Fanny))|CD coming soon|After Hensel's original for violin, cello, and piano
 
 Here's the overture:
