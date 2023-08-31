@@ -2,6 +2,11 @@
 
 I describe myself as a "composer theorist" in the sense of *writing music* inspired by theoretical, structural ideas and doing *music theory research* that self and motivated by questions from composition.
 
+On this page:
+- [Overview](#overview)
+- [New / Featured](#new-featured)
+
+
 ## Overview
 
   - Scores

@@ -2,6 +2,11 @@
 
 I work on music theory, analysis, and composition, almost (but not always) using computational methods of one kind of another.
 
+On this page:
+- [Publications](#publications)
+- [Invited Talks](#invited-talks)
+- [Videos](#videos)
+
 ## Publications
 
 ### Lists of publications are available in all the usual places:
