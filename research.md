@@ -53,8 +53,12 @@ Thanks to all the collaborators and hosts involved!
 ## Videos
 
 [Some talks and related conference videos can be viewed on YouTube here](https://www.youtube.com/@markgotham8699).
-For example, click the poster below for a very succinct 3 min intro to a 2021 ISMIR paper:
+Here are a few recent papers that come with posters and short video summaries:
 
-<object data="images/When_What_Poster.pdf" type="application/pdf" width="700px" height="700px">
-<a href="https://www.youtube.com/watch?v=iFjeorX6juo">ISMIR</a>
-</object>
+
+Short Title &<br>paper/poster link|Venue;<br>Year|Video
+:---:|:---:|:---:|:---:|:---:|
+Musical Genre Recognition<br>[Poster](images/evomusart.pdf)|EvoMUSART<br>2023|N/a
+*What if the when implies the what?*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf)<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 paper intro](images/When_What_Poster.jpg)](https://www.youtube.com/watch?v=iFjeorX6juo)
+*Augmentednet*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf)<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 augmented net video](images/augmentednet.jpg)](https://youtu.be/tybUycbBHAA)
+*Discourse Not Dualism*<br>[Paper](http://archives.ismir.net/ismir2020/paper/000058.pdf)<br>[Poster & more](https://program.ismir2020.net/poster_2-05.html)|ISMIR;<br>2020|[Video](https://youtu.be/sAXMMZer3Tk)
