@@ -74,7 +74,7 @@ Here are a few recent papers that come with posters and short video summaries:
 
 Short Title &<br>paper/poster link|Venue;<br>Year|Video
 :---:|:---:|:---:|:---:|:---:|
-Musical Genre Recognition<br>[Poster](images/evomusart.pdf)|EvoMUSART<br>2023|N/a
-*What if the when implies the what?*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf)<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 paper intro](images/When_What_Poster.jpg)](https://www.youtube.com/watch?v=iFjeorX6juo)
+*Musical Genre Recognition*<br>[Paper](https://link.springer.com/chapter/10.1007/978-3-031-29956-8_27),<br>[Poster](images/evomusart.pdf)|EvoMUSART<br>2023|N/a
+*What if the when implies the what?*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf),<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 paper intro](images/When_What_Poster.jpg)](https://www.youtube.com/watch?v=iFjeorX6juo)
 *Augmentednet*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf)<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 augmented net video](images/augmentednet.jpg)](https://youtu.be/tybUycbBHAA)
-*Discourse Not Dualism*<br>[Paper](http://archives.ismir.net/ismir2020/paper/000058.pdf)<br>[Poster & more](https://program.ismir2020.net/poster_2-05.html)|ISMIR;<br>2020|[Video](https://youtu.be/sAXMMZer3Tk)
+*Discourse Not Dualism*<br>[Paper](http://archives.ismir.net/ismir2020/paper/000058.pdf),<br>[Poster](images/ISMIR2020.pdf),<br>[& More](https://program.ismir2020.net/poster_2-05.html)|ISMIR;<br>2020|[![ISMIR 2020 discourse not dualism](images/ISMIR2020.png)](https://youtu.be/sAXMMZer3Tk)
