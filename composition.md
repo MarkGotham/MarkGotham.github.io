@@ -26,7 +26,24 @@ On this page:
 
 ## New / Featured
 
-### 4x4x4x4 at the MusMat festival, Brazil
+### Wedding music ... with a twist
+
+Two friends have recently got married and asked for (or had forced on them) new pieces for the occasion.
+You decide whether that makes them lucky or ... otherwise!
+In any case, this is wedding music ... with a twist.
+
+Title | Year | Forces | IMSLP Score | Audio/Video | Notes
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+"Pack-a-bell-pattern" ;)|2020|Piano, or brass and organ|Coming soon|[MuseScore](https://musescore.com/user/8641586/scores/6177913)|A fun, rhythmic re-working of a wedding classic: Pachelbel's famous (perhaps infamous) Canon meets a lively ‘bell pattern’ appreciatively adopted from its roots in many Afro-Cuban musics
+"Euro-Audition Tongue Twisters"|2023|Voice and piano|Coming soon|[MuseScore](https://musescore.com/user/8641586/sets/6408997)|For a couple who love to travel ... and have a laugh
+
+### A Couple of Quartets
+
+A couple of short work for string quartet have popped up recently,
+perhaps because of our efforts with the [OpenScore String Quartet](https://musescore.com/openscore-string-quartets) initiative.
+
+*Fantasia on a Pulse* was commissioned for the Fitzwilliam String Quartet's 50th Anniversary and yes there is one founder-member still playing.
+Imagine being in the same string quartet for 50 years. What an accomplishment.
 
 *4x4x4x4* was an interesting project which arose as a consequence of preparing the 12-tone serial part of the [Open Music Theory textbook](https://viva.pressbooks.pub/openmusictheory/).
 I thought that the textbook introduction to serial music would benefit from walking through the creation of a new piece.
@@ -34,6 +51,7 @@ It was then selected for performance by the Kalimera Quartet at the [VI Internat
 
 Title | Year | Forces | IMSLP Score | Audio/Video | Notes
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
+Fantasia on a Pulse|2019|String Quartet|[IMSLP](https://imslp.org/wiki/Fantasia_on_a_Pulse_(Gotham%2C_Mark))|[Soundcloud (Fitzwilliam)](https://soundcloud.com/mark-gotham/fantasia-on-a-pulse);<br>[YouTube (Ligeti)](https://youtu.be/zEGfcsScdoc)|For the Fitzwilliam String Quartet's 50th Anniversary: 2.3.2019.<br>Also given the "Workout" treatment by the Ligeti quartet ([info](https://ligetiquartet.com/workout/sessions/mark-gotham-fantasia-upon-pulse), [workshop](https://youtu.be/nBYIHuvqvxQ), [run through](https://youtu.be/zEGfcsScdoc))
 4x4x4x4|2021|String Quartet|Coming soon|[MuseScore](https://musescore.com/user/8641586/scores/6803044);<br/>[YouTube](https://youtu.be/NKtgcLea8nk?feature=shared&t=1873)|[Textbook chapter](https://viva.pressbooks.pub/openmusictheory/chapter/composing-with-twelve-tones/)
 
 ### New piece + Hensel arrangments for the Marsyas Trio
