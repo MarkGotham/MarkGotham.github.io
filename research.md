@@ -4,10 +4,22 @@ I work on music theory, analysis, and composition, almost (but not always) using
 
 On this page:
 
-- [Publications](#publications)
-- [Invited Talks](#invited-talks)
-- [Posters and Videos](#posters-and-videos)
+- [New/Featured](#feature)
+- [All Publications](#publications)
+- [Recent Invited Talks](#invited-talks)
+- [Some Posters and Videos](#posters-and-videos)
 
+## Feature
+
+Much of the recent work centres on the creation, curation, and analysis of musical dataset, particularly human analyses in encoded formats.
+For example, for harmonic analysis I've been curation the ["When in Rome"](https://github.com/MarkGotham/When-in-Rome) meta-corpus which and used that for ...
+
+- research projects using that data for automatic harmonic analysis with machine learning.
+	- See especially "Augmentednet" ([Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf), [Poster](https://markgotham.github.io/images/augmentednet.pdf), [Video](https://youtu.be/tybUycbBHAA))
+	- ... and before that ["Not all Roads lead to Rome"](https://transactions.ismir.net/articles/10.5334/tismir.45)
+	- ... as well as related tasks studies like *What if the When implies the What?* ([Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf), [Poster](https://markgotham.github.io/images/When_What_Poster.pdf), [Video](https://www.youtube.com/watch?v=iFjeorX6juo))
+- research on that data *in itself* (“Chromatic Chords in Theory and Practice ” *ISMIR 2023*, coming soon)
+- pedagogical / public-facing anthology [as discussed here](https://emusicology.org/index.php/EMR/article/view/7644) and provided as part of the [Open Music Theory textbook here](https://viva.pressbooks.pub/openmusictheory/chapter/anthology-harmony/)
 
 ## Publications
 
@@ -75,6 +87,6 @@ Here are a few recent papers that come with posters and short video summaries:
 Short Title &<br>paper/poster link|Venue;<br>Year|Video
 :---:|:---:|:---:|:---:|:---:|
 *Musical Genre Recognition*<br>[Paper](https://link.springer.com/chapter/10.1007/978-3-031-29956-8_27),<br>[Poster](images/evomusart.pdf)|EvoMUSART<br>2023|N/a
-*What if the when implies the what?*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf),<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 paper intro](images/When_What_Poster.jpg)](https://www.youtube.com/watch?v=iFjeorX6juo)
-*Augmentednet*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf)<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 augmented net video](images/augmentednet.jpg)](https://youtu.be/tybUycbBHAA)
+*What if the When implies the What?*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf),<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 paper intro](images/When_What_Poster.jpg)](https://www.youtube.com/watch?v=iFjeorX6juo)
+*Augmentednet*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf)<br>[Poster](images/augmentednet.pdf)|ISMIR;<br>2021|[![ISMIR 2021 augmented net video](images/augmentednet.jpg)](https://youtu.be/tybUycbBHAA)
 *Discourse Not Dualism*<br>[Paper](http://archives.ismir.net/ismir2020/paper/000058.pdf),<br>[Poster](images/ISMIR2020.pdf),<br>[& More](https://program.ismir2020.net/poster_2-05.html)|ISMIR;<br>2020|[![ISMIR 2020 discourse not dualism](images/ISMIR2020.png)](https://youtu.be/sAXMMZer3Tk)
