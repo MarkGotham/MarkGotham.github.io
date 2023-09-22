@@ -12,7 +12,7 @@ Thanks to all employers, colleagues, students, etc. from over the years and arou
 
 When|Where|What
 ---|---|---
-2023–|Durham University (UK)|Assistant Professor, Computer Science
+2023–|Durham University (UK)|Assistant Professor, Computer Science<br>[Digital Humanities Research Strand lead](https://aihs.webspace.durham.ac.uk/digital-humanities/)
 2021–22 | Technische Universität Dortmund (DE) | Professor (W2) of Music Theory
 2021– | University of Cambridge (UK) | Dept of Computer Science and Technology: Affiliated Lecturer for 1 year, then ongoing as "visitor"
 2020–21 | Universität des Saarlandes (DE) | Wissenschaftlicher Mitarbeiter
