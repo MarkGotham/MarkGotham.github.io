@@ -54,9 +54,12 @@ No need to repeat all of that content here!
 Current/recent invited talks provide an indication of other groups working in related areas.
 Thanks to all the collaborators and hosts involved!
 
-- Coming soon:
-	- 2024: Invited talk at & participation in [Dagstuhl Seminar 24302: Learning with Music Signals: Technology Meets Education.](https://www.dagstuhl.de/24302), DE
-	- 2023, Autumn: Invited talk at the [German national musicology conference (GfM)](https://www.uni-saarland.de/fachrichtung/musikwissenschaft/gfm-tagung-2023/programm-gfm-tagung-2023.html), DE
+- Coming soon in 2024:
+	- Invited talk at & participation in [Dagstuhl Seminar 24302: Learning with Music Signals: Technology Meets Education.](https://www.dagstuhl.de/24302), DE
+- 2023, Autumn: 
+	- Invited talk at the [German national musicology conference (GfM)](https://www.uni-saarland.de/fachrichtung/musikwissenschaft/gfm-tagung-2023/programm-gfm-tagung-2023.html), DE
+	- University of Michigan, USA
+
 - 2023, Spring:
 	- Keynote @ the [10th International Conference on New Music Concepts (ICNMC 2023)](http://www.studiomusicatreviso.it/icnmc/icnmc.php), Treviso, IT
 	- York University, UK
@@ -86,7 +89,9 @@ Here are a few recent papers that come with posters and short video summaries:
 
 Short Title &<br>paper/poster link|Venue;<br>Year|Video
 :---:|:---:|:---:|:---:|:---:|
-*Musical Genre Recognition*<br>[Paper](https://link.springer.com/chapter/10.1007/978-3-031-29956-8_27),<br>[Poster](images/evomusart.pdf)|EvoMUSART<br>2023|N/a
+||
+*Chromatic chords in theory and practice*<br>[Paper](https://archives.ismir.net/ismir2023/paper/000046.pdf),<br>[Poster](images/Chromatics.pdf)|ISMIR;<br>2023|[![ISMIR 2023 Chromatics paper intro](images/Chromatics.png)](https://youtu.be/MKtW3d00a5g)
+*Musical Genre Recognition*<br>[Paper](https://link.springer.com/chapter/10.1007/978-3-031-29956-8_27),<br>[Poster](images/evomusart.pdf)|EvoMUSART;<br>2023|N/a
 *What if the When implies the What?*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf),<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 paper intro](images/When_What_Poster.jpg)](https://www.youtube.com/watch?v=iFjeorX6juo)
 *Augmentednet*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf)<br>[Poster](images/augmentednet.pdf)|ISMIR;<br>2021|[![ISMIR 2021 augmented net video](images/augmentednet.jpg)](https://youtu.be/tybUycbBHAA)
 *Discourse Not Dualism*<br>[Paper](http://archives.ismir.net/ismir2020/paper/000058.pdf),<br>[Poster](images/ISMIR2020.pdf),<br>[& More](https://program.ismir2020.net/poster_2-05.html)|ISMIR;<br>2020|[![ISMIR 2020 discourse not dualism](images/ISMIR2020.png)](https://youtu.be/sAXMMZer3Tk)
