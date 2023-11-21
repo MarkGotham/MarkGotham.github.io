@@ -3,6 +3,7 @@
 I describe myself as a "composer theorist" in the sense of *writing music* inspired by theoretical, structural ideas and doing *music theory research* that self and motivated by questions from composition.
 
 On this page:
+
 - [Overview](#overview)
 - [New / Featured](#new-featured)
 
@@ -58,15 +59,12 @@ Fantasia on a Pulse|2019|String Quartet|[IMSLP](https://imslp.org/wiki/Fantasia_
 
 In 2023, I have the pleasure of working with the
 [Marsyas Trio](https://www.marsyastrio.com/)
-on a composition for the Byrd 400th
-and on a couple of Hensel arrangements.
-
-More details about the Byrd piece will follow soon.
-The trio are busy recording the Hensel arrangements in August 2023 for release in a few months time.
-Details as follows:
+on a new composition (to mark 400 years since the death of William Byrd)
+and on a couple of Hensel arrangements (for a forthcoming CD).
 
 Title | Year | Forces | IMSLP Score | Audio | Notes
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
+"Steampunk Byrd"|2023|Flute, cello, piano|To follow|To follow|Imagine a DJ remix of [Byrd's Fantasia](https://imslp.org/wiki/Praeludium_%26_Fantasia%2C_FVB_100%2C_52_(Byrd%2C_William)), brining out the funky rhythms|
 Overture in C major|2023|Flute, cello, piano|[Score](https://s9.imslp.org/files/imglnks/usimg/3/3b/IMSLP860693-PMLP1350063-Hensel_Overture_arr_Gotham_Piano-Score.pdf); or via the "arrangements" tab of the [main page](https://imslp.org/wiki/Overture_in_C_major_(Hensel%2C_Fanny))|[MuseScore](https://musescore.com/user/8641586/scores/11096074);<br/>CD coming soon|Hensel's only orchestral work
 Trio in D minor|2023|Flute, cello, piano|[New flute part](https://s9.imslp.org/files/imglnks/usimg/d/df/IMSLP865724-PMLP70387-Hensel_Trio_Flute_part.pdf); or via the "arrangements" tab of the [main page](https://imslp.org/wiki/Piano_Trio,_Op.11_(Hensel,_Fanny))|CD coming soon|After Hensel's original for violin, cello, and piano
 
