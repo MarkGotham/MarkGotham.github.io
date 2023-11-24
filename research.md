@@ -90,8 +90,8 @@ Here are a few recent papers that come with posters and short video summaries:
 Short Title &<br>paper/poster link|Venue;<br>Year|Video
 :---:|:---:|:---:|:---:|:---:|
 ||
-*Chromatic chords in theory and practice*<br>[Paper](https://archives.ismir.net/ismir2023/paper/000046.pdf),<br>[Poster](images/Chromatics.pdf)|ISMIR;<br>2023|[![ISMIR 2023 Chromatics paper intro](images/Chromatics.png)](https://youtu.be/MKtW3d00a5g)
-*Musical Micro-Timing for Live Coding*<br>[Paper](https://archives.ismir.net/ismir2023/paper/000093.pdf),<br>[Poster](images/Musical_Microtiming.pdf)|ISMIR;<br>2023|N/a
+*Chromatic chords in theory and practice*<br>[Paper](https://archives.ismir.net/ismir2023/paper/000046.pdf),<br>[Poster](images/Chromatics.pdf)|[ISMIR;<br>2023](https://ismir2023program.ismir.net/poster_46.html)|[![ISMIR 2023 Chromatics paper intro](images/Chromatics.png)](https://youtu.be/MKtW3d00a5g)
+*Musical Micro-Timing for Live Coding*<br>[Paper](https://archives.ismir.net/ismir2023/paper/000093.pdf),<br>[Poster](images/Musical_Microtiming.pdf)|[ISMIR;<br>2023](https://ismir2023program.ismir.net/poster_93.html)|[![ISMIR 2023 paper intro](images/Musical_Microtiming.pdf)](https://www.youtube.com/watch?v=iFjeorX6juo)
 *Musical Genre Recognition*<br>[Paper](https://link.springer.com/chapter/10.1007/978-3-031-29956-8_27),<br>[Poster](images/evomusart.pdf)|EvoMUSART;<br>2023|N/a
 *What if the When implies the What?*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf),<br>[Poster](images/When_What_Poster.pdf)|ISMIR;<br>2021|[![ISMIR 2021 paper intro](images/When_What_Poster.jpg)](https://www.youtube.com/watch?v=iFjeorX6juo)
 *Augmentednet*<br>[Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf)<br>[Poster](images/augmentednet.pdf)|ISMIR;<br>2021|[![ISMIR 2021 augmented net video](images/augmentednet.jpg)](https://youtu.be/tybUycbBHAA)
