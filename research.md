@@ -41,12 +41,8 @@ No need to repeat all of that content here!
 
 ### Coming soon (all in press for 2023 publication)
 
-- Gotham: “Chromatic Chords in Theory and Practice ” *ISMIR 2023*
-- Johnson & Gotham 2023 (in press): “Musical Micro-Timing for Live Coding.” *ISMIR 2023*
 - Gotham, Micchi, Nápoles López, & Sailor 2023 (in press): “When in Rome”, *TISMIR (exp.2023)*
-- Mark Gotham, Maureen Redbond, Bruno Bower & Peter Jonas: “The OpenScore String Quartet Corpus”, *DLfM 2023*
--  Mark Gotham, Johannes Hentschel, Louis Couturier, Nathan Dykeaylen, Martin Rohrmeier & Mathieu Giraud: “Measure Maps” *DLfM 2023*
--  Derek Remeš, Victor Duy Phan, & Mark Gotham: "Clausulae-Pairs in Multiple-Bass Chorales" in *Oxford Handbook of Musical Variation and Thematic Techniques*, (Jeffrey Swinkin ed). 
+- Derek Remeš, Victor Duy Phan, & Mark Gotham: "Clausulae-Pairs in Multiple-Bass Chorales" in *Oxford Handbook of Musical Variation and Thematic Techniques*, (Jeffrey Swinkin ed). 
 
 
 ## Invited Talks
