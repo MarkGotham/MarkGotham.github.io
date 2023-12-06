@@ -55,12 +55,14 @@ Title | Year | Forces | IMSLP Score | Audio/Video | Notes
 Fantasia on a Pulse|2019|String Quartet|[IMSLP](https://imslp.org/wiki/Fantasia_on_a_Pulse_(Gotham%2C_Mark))|[Soundcloud (Fitzwilliam)](https://soundcloud.com/mark-gotham/fantasia-on-a-pulse);<br>[YouTube (Ligeti)](https://youtu.be/zEGfcsScdoc)|For the Fitzwilliam String Quartet's 50th Anniversary: 2.3.2019.<br>Also given the "Workout" treatment by the Ligeti quartet ([info](https://ligetiquartet.com/workout/sessions/mark-gotham-fantasia-upon-pulse), [workshop](https://youtu.be/nBYIHuvqvxQ), [run through](https://youtu.be/zEGfcsScdoc))
 4x4x4x4|2021|String Quartet|Coming soon|[MuseScore](https://musescore.com/user/8641586/scores/6803044);<br/>[YouTube](https://youtu.be/NKtgcLea8nk?feature=shared&t=1873)|[Textbook chapter](https://viva.pressbooks.pub/openmusictheory/chapter/composing-with-twelve-tones/)
 
-### New piece + Hensel arrangments for the Marsyas Trio
+### [Marsyas Trio](https://www.marsyastrio.com/)
 
 In 2023, I have the pleasure of working with the
-[Marsyas Trio](https://www.marsyastrio.com/)
-on a new composition (to mark 400 years since the death of William Byrd)
-and on a couple of Hensel arrangements (for a forthcoming CD).
+wonderful [Marsyas Trio](https://www.marsyastrio.com/)
+on:
+
+- a new composition to mark 400 years since the death of William Byrd
+- a couple of Hensel arrangements for a forthcoming CD (project details to follow)
 
 Title | Year | Forces | IMSLP Score | Audio | Notes
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
