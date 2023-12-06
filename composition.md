@@ -5,7 +5,7 @@ I describe myself as a "composer theorist" in the sense of *writing music* inspi
 On this page:
 
 - [Overview](#overview)
-- [New / Featured](#new-featured)
+- [New / Featured](#new-and-featured)
 
 
 ## Overview
@@ -25,7 +25,7 @@ On this page:
      - Coming soon ;)
 
 
-## New / Featured
+## New and Featured
 
 ### Wedding music ... with a twist
 
