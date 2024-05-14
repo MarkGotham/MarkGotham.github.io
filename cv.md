@@ -12,9 +12,9 @@ Thanks to all employers, colleagues, students, etc. from over the years and arou
 
 When|Where|What
 ---|---|---
-2023–|Durham University (UK)|Assistant Professor, Computer Science<br>[Digital Humanities Research Strand lead](https://aihs.webspace.durham.ac.uk/digital-humanities/)
-2021–22 | Technische Universität Dortmund (DE) | Professor (W2) of Music Theory
-2021– | University of Cambridge (UK) | Dept of Computer Science and Technology: Affiliated Lecturer for 1 year, then ongoing as "visitor"
+2023–|Durham University (UK)|[Assistant Professor, Computer Science](https://www.durham.ac.uk/staff/mark-r-gotham/)<br>[(Digital Humanities)](https://aihs.webspace.durham.ac.uk/digital-humanities/)
+2021–22 | Technische Universität Dortmund (DE) | [Professor (W2) of Music Theory](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)
+2021– | University of Cambridge (UK) | Dept of Computer Science and Technology: [Affiliated Lecturer / "Visitor"](https://www.cst.cam.ac.uk/people/mrhg2)
 2020–21 | Universität des Saarlandes (DE) | Wissenschaftlicher Mitarbeiter
 2018–20 | Cornell University (USA) | ‘Active Learning Initiative’ Fellow; Postdoctoral Associate in Computational Music Theory Pedagogy
 2016–17 | Royal Holloway, University of London (UK) | Visiting Lecturer
