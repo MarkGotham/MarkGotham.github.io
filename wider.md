@@ -33,8 +33,8 @@ Since 2018 I've been driving projects create large collections of high-quality m
 and release them freely
 so that anyone can able to play, download, transpose and use as they please copyright-free (under a [CC0](https://creativecommons.org/publicdomain/zero/1.0/) license).
 
-These project are in association with [OpenScore](https://openscore.cc/)
-and to date to offer two major collections of lieder (songs) and string quartets.
+These projects are in association with [OpenScore](https://openscore.cc/).
+To date, we offer two major collections of lieder (songs) and string quartets.
 For more information ...
 
 What?|Play online|Whole Corpus|Publication|Other
