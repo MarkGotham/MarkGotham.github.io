@@ -58,7 +58,7 @@ Fantasia on a Pulse|2019|String Quartet|[IMSLP](https://imslp.org/wiki/Fantasia_
 ### Marsyas Trio
 
 In 2023, I have the pleasure of working with the
-wonderful [Marsyas Trio](https://www.marsyastrio.com/)
+wonderful [Marsyas Trio]()
 on:
 
 - a new composition to mark 400 years since the death of William Byrd
