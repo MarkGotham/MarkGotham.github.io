@@ -27,22 +27,18 @@ For example, for harmonic analysis I've been curation the ["When in Rome"](https
 
 Lists of indexed publications are available in all the usual places: publications are available in all the usual places:
 
-- [ORCID](https://orcid.org/0000-0003-0722-3074), 
-- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=bA0PEo0AAAAJ),
-- [Semantic Scholar](https://www.semanticscholar.org/author/Mark-R.-H.-Gotham/28367380),
-- [Web of Science](https://www.webofscience.com/wos/author/record/IUN-5075-2023)
+- [ORCID](https://orcid.org/0000-0003-0722-3074) - partly curated by me,
+- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=bA0PEo0AAAAJ) - automatic,
+- [Semantic Scholar](https://www.semanticscholar.org/author/Mark-R.-H.-Gotham/28367380) - automatic,
+- [Web of Science](https://www.webofscience.com/wos/author/record/IUN-5075-2023) - automatic,
+- [Zotero](https://www.zotero.org/markgotham#F5LMS8VP) - curated by me
+- [DBLP](https://dblp.org/pid/208/1338.html) - only certain journals/conferences as it's a "computer science bibliography".
 
 No need to repeat all of that content here!
 
 ### Published recently, not well indexed ^
 - "Old Sources in new Sauces: John Joubert and the Analysis of Ancient Materials in Modern Music". *Intégral*, vol.36, 2023. [Paper HTML](https://www.esm.rochester.edu/integral/36-2023/gotham/), [Paper PDF](https://www.esm.rochester.edu/integral/36-2023/36-gotham/)
 - Gotham, Mark R. H.; Song, Kunpeng; Böhlefeld, Nicolai; Elgammal, Ahmed: Beethoven X: Es könnte sein! (It could be!), *AIMC 2022*. [Paper](https://zenodo.org/record/7088335#.YyqWQi0RpQI). [Video](https://www.youtube.com/watch?v=qCrksRVsffM)
-
-
-### Coming soon (all in press for 2023 publication)
-
-- Gotham, Micchi, Nápoles López, & Sailor 2023 (in press): “When in Rome”, *TISMIR (exp.2023)*
-- Derek Remeš, Victor Duy Phan, & Mark Gotham: "Clausulae-Pairs in Multiple-Bass Chorales" in *Oxford Handbook of Musical Variation and Thematic Techniques*, (Jeffrey Swinkin ed). 
 
 
 ## Invited Talks
