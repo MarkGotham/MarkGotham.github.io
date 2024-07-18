@@ -18,27 +18,22 @@ For example, for harmonic analysis I've been curation the ["When in Rome"](https
 	- See especially "Augmentednet" ([Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf), [Poster](https://markgotham.github.io/images/augmentednet.pdf), [Video](https://youtu.be/tybUycbBHAA))
 	- ... and before that ["Not all Roads lead to Rome"](https://transactions.ismir.net/articles/10.5334/tismir.45)
 	- ... as well as related tasks studies like *What if the When implies the What?* ([Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf), [Poster](https://markgotham.github.io/images/When_What_Poster.pdf), [Video](https://www.youtube.com/watch?v=iFjeorX6juo))
-- research on that data *in itself* (“Chromatic Chords in Theory and Practice ” *ISMIR 2023*, coming soon)
+- research on that data *in itself* (*Chromatic chords in theory and practice*: [Paper](https://archives.ismir.net/ismir2023/paper/000046.pdf), [Poster](images/Chromatics.pdf), [ISMIR 2023 intro video](https://youtu.be/MKtW3d00a5g))
+(https://archives.ismir.net/ismir2023/paper/000046.pdf))
 - pedagogical / public-facing anthology [as discussed here](https://emusicology.org/index.php/EMR/article/view/7644) and provided as part of the [Open Music Theory textbook here](https://viva.pressbooks.pub/openmusictheory/chapter/anthology-harmony/)
 
 ## Publications
 
-### Published and Indexed
-
 Lists of indexed publications are available in all the usual places: publications are available in all the usual places:
 
 - [ORCID](https://orcid.org/0000-0003-0722-3074) - partly curated by me,
-- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=bA0PEo0AAAAJ) - automatic,
+- [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=bA0PEo0AAAAJ) - automatic and probably the most complete among them,
 - [Semantic Scholar](https://www.semanticscholar.org/author/Mark-R.-H.-Gotham/28367380) - automatic,
 - [Web of Science](https://www.webofscience.com/wos/author/record/IUN-5075-2023) - automatic,
 - [Zotero](https://www.zotero.org/markgotham#F5LMS8VP) - curated by me
 - [DBLP](https://dblp.org/pid/208/1338.html) - only certain journals/conferences as it's a "computer science bibliography".
 
 No need to repeat all of that content here!
-
-### Published recently, not well indexed ^
-- "Old Sources in new Sauces: John Joubert and the Analysis of Ancient Materials in Modern Music". *Intégral*, vol.36, 2023. [Paper HTML](https://www.esm.rochester.edu/integral/36-2023/gotham/), [Paper PDF](https://www.esm.rochester.edu/integral/36-2023/36-gotham/)
-- Gotham, Mark R. H.; Song, Kunpeng; Böhlefeld, Nicolai; Elgammal, Ahmed: Beethoven X: Es könnte sein! (It could be!), *AIMC 2022*. [Paper](https://zenodo.org/record/7088335#.YyqWQi0RpQI). [Video](https://www.youtube.com/watch?v=qCrksRVsffM)
 
 
 ## Invited Talks
@@ -49,7 +44,8 @@ Thanks to all the collaborators and hosts involved!
 - Coming soon in 2024:
 	- Invited talk at & participation in [Dagstuhl Seminar 24302: Learning with Music Signals: Technology Meets Education.](https://www.dagstuhl.de/24302), DE
 - 2023, Autumn: 
-	- Invited talk at the [German national musicology conference (GfM)](https://www.uni-saarland.de/fachrichtung/musikwissenschaft/gfm-tagung-2023/programm-gfm-tagung-2023.html), DE
+	- Invited talk at the [German national musicology conference (GfM)
+](https://www.uni-saarland.de/fachrichtung/musikwissenschaft/gfm-tagung-2023/programm-gfm-tagung-2023.html), DE
 	- University of Michigan, USA
 
 - 2023, Spring:
