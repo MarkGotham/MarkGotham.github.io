@@ -6,9 +6,9 @@ First, some notes on what this page does/n't cover:
 
 - This page is for those looking for formal jobs (PhD, postdoc fellowship, faculty position) in the UK.
 - If you're in some other position (current student, industry partner, external collaborator etc.) please write directly.
-- Most of the advice is not specific to me/Durham, it is UK-wide, but not wider. Please write directly if you want advice on jobs in mainland Europe or elsewhere.
+- Most of the advice is not specific to me/KCL, it is UK-wide, but not wider. Please write directly if you want advice on jobs in mainland Europe or elsewhere.
 
-My `durham.ac.uk` email is in the form `<firstname>.r.<lastname>`.
+My `kcl.ac.uk` email is in the form `<firstname>.<lastname>`.
 Know what I mean ;)?
 If you want to demonstrate that you've read this before writing, why not include "Penguins" in the subject.
 
@@ -17,7 +17,7 @@ If you want to demonstrate that you've read this before writing, why not include
 Formal vacancies for academic positions (both permanent faculty and temporary postdoctoral research assistants/associates), are advertised in many places.
 Typically, our minimum is:
 
-- The Central University webpage for vacancies at Durham ([durham.ac.uk/job-vacancies/](https://www.durham.ac.uk/job-vacancies/));
+- The Central University webpage for [vacancies at KCL](https://www.kcl.ac.uk/jobs/);
 - The UK-wide [jobs.ac.uk/](http://www.jobs.ac.uk/) site
 - Discipline specific sites like the [ISMIR community announcements](https://groups.google.com/a/ismir.net/g/community).
 
@@ -27,13 +27,14 @@ Typically, our minimum is:
 Funded PhD positions arising from specific grants will be advertised as an academic vacancy [(see above)](#academic-vacancies).
 Prospective PhD students are also welcome to propose or discuss possible topics at any time. Here are some useful links:
 
-- Advice on applying to Durham: [https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/#d.en.510996](https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/#d.en.510996)
+- Advice on [applying to KCL](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply)
 - Department specific:
-	- Computer Science: [https://www.durham.ac.uk/departments/academic/computer-science/postgraduate/research/](https://www.durham.ac.uk/departments/academic/computer-science/postgraduate/research/)
-	- Music (yes, a PhD can be co-supervised by faculty in different departments): [https://www.durham.ac.uk/departments/academic/music/postgraduate-study/](https://www.durham.ac.uk/departments/academic/music/postgraduate-study/)
-- Postgraduate scholarships: [https://www.dur.ac.uk/study/scholarships/postgraduate/](https://www.dur.ac.uk/study/scholarships/postgraduate/)
+	- [Digital Humanities](https://www.kcl.ac.uk/ddh/phd)
+	- [Music](https://www.kcl.ac.uk/music) (yes, a PhD can be co-supervised by faculty in different departments)
+- [Postgraduate scholarship opportunities](https://www.kcl.ac.uk/study/postgraduate-research/funding/scholarships-and-studentships)
 
-## Fellowships
+
+## (Postdoctoral) Fellowships
 
 Naturally, we support suitable candidates in making applications to relevant schemes that would provide the candidate their own funding.
 A good place to start for UK opportunities is 
