@@ -7,13 +7,19 @@ Obviously, please do feel free to use any of these in conference proceedings, co
 ## Short
 
 Mark Gotham specialises in computational methods for music theory, analysis, and composition.
-He holds the rare distinction of being appointed to permanent faculty positions in both STEM (now, at Durham) and in the humanities (previously at Dortmund). 
+He holds the rare distinction of having being appointed to permanent faculty positions 
+in the humanities (Professor of Music Theory at Dortmund),
+in STEM (Asst Prof. Computer Science at Durham) and
+'in between' (now in the Digital Humanities Department at KCL).
 Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
 
 ## Medium
 
 Mark Gotham specialises in computational methods for music theory, analysis, and composition.
-He holds the rare distinction of being appointed to permanent faculty positions in both STEM (now, at Durham) and in the humanities (previously at Dortmund). 
+He holds the rare distinction of being appointed to permanent faculty positions 
+in the humanities (Professor of Music Theory at Dortmund),
+in STEM (Asst Prof. Computer Science at Durham) and
+'in between' (now in the Digital Humanities Department at KCL).
 Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
 
 Computer-aided methods can help not only to advance *what we know* about (a wide range of) musical structures, but also
@@ -38,7 +44,10 @@ Prospective students are especially welcome to reach out at any time.
 ## Long Biography ... with Links ;)
 
 Mark Gotham specialises in computational methods for music theory, analysis, and composition.
-He holds the rare distinction of having been appointed to faculty positions in both STEM ([Assistant Professor of Computer Science at Durham University](https://www.durham.ac.uk/staff/mark-r-gotham/)) and in the humanities (previously [Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)).
+He holds the rare distinction of having been appointed to faculty positions
+in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
+in STEM (Asst Prof. Computer Science at Durham) and
+'in between' (now in the Digital Humanities Department at KCL).
 
 Mark graduated from the [University of Oxford (Christ Church)](http://www.ox.ac.uk/) with the [Gibbs prize](https://www.ox.ac.uk/students/fees-funding/prizes-and-awards/gibbs) for the highest-ranking first class degree awarded in music; from the [Royal Northern College of Music](http://www.rncm.ac.uk/) with an MMus in composition (supported by a full [Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) scholarship); and from the [University of Cambridge](http://www.cam.ac.uk/) with a Ph.D. in music theory (Newton Trust scholarship). His thesis was described by the examiners as 'excellent' ([Alan Marsden](http://www.lancaster.ac.uk/staff/marsdena/)) and 'formidable' ([Robert Pascall](http://www.nottingham.ac.uk/music/people/robert.pascall)).
 
