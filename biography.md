@@ -2,26 +2,26 @@
 
 Here it all is in prose.
 I use [short](#short), [medium](#medium), and [long](#long) versions depending on the context.
-Obviously, please do feel free to use any of these in conference proceedings, concerts programmes etc.
+Please feel free to use any of these in conference proceedings, concerts programmes etc.
 
-## Short
+## Short (~75ww)
 
 Mark Gotham specialises in computational methods for music theory, analysis, and composition.
 He holds the rare distinction of having being appointed to permanent faculty positions 
-in the humanities (Professor of Music Theory at Dortmund),
-in STEM (Asst Prof. Computer Science at Durham) and
-'in between' (now in the Digital Humanities Department at KCL).
+in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
+in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
+'in between' (now as 'Senior Lecturer in Cultural Computation' in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
 Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
 
-## Medium
+## Medium (~200ww)
 
-Mark Gotham specialises in computational methods for music theory, analysis, and composition.
-He holds the rare distinction of being appointed to permanent faculty positions 
-in the humanities (Professor of Music Theory at Dortmund),
-in STEM (Asst Prof. Computer Science at Durham) and
-'in between' (now in the Digital Humanities Department at KCL).
+Mark Gotham holds the rare distinction of having been appointed to faculty positions
+in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
+in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
+'in between' (now as 'Senior Lecturer in Cultural Computation' in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
 Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
 
+Mark’s research specialises in computational methods for music theory, analysis, and composition.
 Computer-aided methods can help not only to advance *what we know* about (a wide range of) musical structures, but also
 *what we can do* with that knowledge,
 and
@@ -30,23 +30,21 @@ Central to much of this is the encoding of
 *human* analyses in
 *computer-readable* formats.
 
-Beyond his core research, Mark’s work spans commercial contracts, musical composition, and more.
-Notable commercial contracts have included the “Beethoven X” project for Deutsche Telekom.
-Composition highlights include broadcasts on BBC Radio 3 and national Chinese television, and the debut CD of Mark’s compositions (‘Utrumne est Ornatum’, REGCD485) attracting 5-star critical reviews.
+Beyond research, Mark’s work spans commercial contracts, musical composition, and more.
+Commercial contracts have included the “Beethoven X” project for Deutsche Telekom.
+Composition highlights include broadcasts on BBC Radio 3 and national Chinese television, and the debut CD of Mark’s compositions
+(_Utrumne est Ornatum_, REGCD485) attracting 5-star critical reviews.
 
 Earlier in his career, Mark was a highly active as a performer (singer, multi-instrumentalist, and conductor).
-Highlights included conducting principal players of the London Symphony Orchestra and Philharmonia Orchestra in contemporary music projects. 
-Moving countries, full-time academic work, the pandemic, and having kids put an end to all that! 
+Highlights included conducting contemporary music projects with principal players of the Philharmonia Orchestra and LSO.
 
-Mark is a committed collaborator, regularly working with scholars at all career stages around the world. 
-Prospective students are especially welcome to reach out at any time.
 
-## Long Biography ... with Links ;)
+## Long
 
 Mark Gotham specialises in computational methods for music theory, analysis, and composition.
 He holds the rare distinction of having been appointed to faculty positions
 in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
-in STEM (Asst Prof. [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
+in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
 'in between' (now in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
 
 Mark graduated from the [University of Oxford (Christ Church)](http://www.ox.ac.uk/) with the [Gibbs prize](https://www.ox.ac.uk/students/fees-funding/prizes-and-awards/gibbs) for the highest-ranking first class degree awarded in music; from the [Royal Northern College of Music](http://www.rncm.ac.uk/) with an MMus in composition (supported by a full [Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) scholarship); and from the [University of Cambridge](http://www.cam.ac.uk/) with a Ph.D. in music theory (Newton Trust scholarship). His thesis was described by the examiners as 'excellent' ([Alan Marsden](http://www.lancaster.ac.uk/staff/marsdena/)) and 'formidable' ([Robert Pascall](http://www.nottingham.ac.uk/music/people/robert.pascall)).
@@ -63,7 +61,8 @@ Then he ...
 - ... left Cambridge to take up a unique post as [‘Postdoctoral Associate in Computational Music Theory Pedagogy’ at Cornell University](http://music.cornell.edu/) and fellow of the ['Active Learning Initiative'](http://as.cornell.edu/education-innovation),
 - ... returned to Europe in 2020 to take up a second postdoc ('Wissenschaftlicher Mitarbeiter') on the DFG-funded ‘Computergestützte Analyse harmonischer Strukturen’ project (Rainer Kleinertz and Meinard Müller, principal investigators) at the [Universität des Saarlandes](https://www.uni-saarland.de/en/home.html),
 - ... was appointed Professor (W2) of Music Theory at [Technische Universität Dortmund](https://www.musik.tu-dortmund.de/institut/personen/professorinnen-und-professoren/univ-prof-dr-phil-mark-r-h-gotham/).
-- ... and then to his current position in computer science at Durham.
+- ... moved to an Asst. Prof. position in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) (whlie pursuing the same kind of reserach
+- ... before settling on his current position in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh).
 
 Mark's early career encompassed a wide range of musical activities including performance, composition and arrangement, teaching, and research (including a first post as McCann Research Fellow at the [Royal Academy of Music](https://www.ram.ac.uk/) prior to starting his PhD).
 Performance engagements have included playing several instruments, singing (both as a freelance baritone and as a Lay Clerk in the Chelmsford and Ely Cathedral Choirs), and conducting.
