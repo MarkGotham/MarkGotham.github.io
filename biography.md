@@ -10,7 +10,9 @@ Mark Gotham specialises in computational methods for music theory, analysis, and
 He holds the rare distinction of having being appointed to permanent faculty positions 
 in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
-'in between' (now as 'Senior Lecturer in Cultural Computation' in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
+'in between' (now as 
+[Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
+in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
 Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
 
 ## Medium (~200ww)
@@ -18,7 +20,9 @@ Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (wher
 Mark Gotham holds the rare distinction of having been appointed to faculty positions
 in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
-'in between' (now as 'Senior Lecturer in Cultural Computation' in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
+'in between' (now as 
+[Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
+in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
 Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
 
 Mark’s research specialises in computational methods for music theory, analysis, and composition.
@@ -45,7 +49,9 @@ Mark Gotham specialises in computational methods for music theory, analysis, and
 He holds the rare distinction of having been appointed to faculty positions
 in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
-'in between' (now in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
+'in between' (now as 
+[Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
+in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
 
 Mark graduated from the [University of Oxford (Christ Church)](http://www.ox.ac.uk/) with the [Gibbs prize](https://www.ox.ac.uk/students/fees-funding/prizes-and-awards/gibbs) for the highest-ranking first class degree awarded in music; from the [Royal Northern College of Music](http://www.rncm.ac.uk/) with an MMus in composition (supported by a full [Arts and Humanities Research Council](https://www.ukri.org/councils/ahrc/) scholarship); and from the [University of Cambridge](http://www.cam.ac.uk/) with a Ph.D. in music theory (Newton Trust scholarship). His thesis was described by the examiners as 'excellent' ([Alan Marsden](http://www.lancaster.ac.uk/staff/marsdena/)) and 'formidable' ([Robert Pascall](http://www.nottingham.ac.uk/music/people/robert.pascall)).
 
