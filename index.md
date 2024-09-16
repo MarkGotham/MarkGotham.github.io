@@ -26,3 +26,7 @@ and little else!
 - Mathematical modelling
 - Wider access, outreach, pedagogical/public-facing resources
 
+
+## Contact
+
+`<first_name> dot <last_name> at KCL dot ac dot uk`
