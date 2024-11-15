@@ -7,7 +7,7 @@ Please feel free to use any of these in conference proceedings, concerts program
 ## Short (~75ww)
 
 Mark Gotham specialises in computational methods for music theory, analysis, and composition.
-He holds the rare distinction of having being appointed to permanent faculty positions 
+He holds the rare distinction of having been appointed to permanent faculty positions 
 in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
 'in between' (now as 
