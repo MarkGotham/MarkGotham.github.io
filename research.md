@@ -18,7 +18,7 @@ For example, for harmonic analysis I've been curation the ["When in Rome"](https
 	- See especially "Augmentednet" ([Paper](https://archives.ismir.net/ismir2021/paper/000050.pdf), [Poster](https://markgotham.github.io/images/augmentednet.pdf), [Video](https://youtu.be/tybUycbBHAA))
 	- ... and before that ["Not all Roads lead to Rome"](https://transactions.ismir.net/articles/10.5334/tismir.45)
 	- ... as well as related tasks studies like *What if the When implies the What?* ([Paper](https://archives.ismir.net/ismir2021/paper/000028.pdf), [Poster](https://markgotham.github.io/images/When_What_Poster.pdf), [Video](https://www.youtube.com/watch?v=iFjeorX6juo))
-- research on that data *in itself* (*Chromatic chords in theory and practice*: [Paper](https://archives.ismir.net/ismir2023/paper/000046.pdf), [Poster](images/Chromatics.pdf), [ISMIR 2023 intro video](https://youtu.be/MKtW3d00a5g))
+- research on that data *in itself* (*Chromatic chords in theory and practice*: [Paper](https://doi.org/10.5281/zenodo.10265275), [Poster](images/Chromatics.pdf), [ISMIR 2023 intro video](https://youtu.be/MKtW3d00a5g))
 - pedagogical / public-facing anthology [as discussed here](https://emusicology.org/index.php/EMR/article/view/7644) and provided as part of the [Open Music Theory textbook here](https://viva.pressbooks.pub/openmusictheory/chapter/anthology-harmony/)
 
 ## Publications
