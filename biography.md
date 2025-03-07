@@ -6,7 +6,8 @@ Please feel free to use any of these in conference proceedings, concerts program
 
 ## Short (~75ww)
 
-Mark Gotham specialises in computational methods for music theory, analysis, and composition.
+[Mark Gotham](https://markgotham.github.io/)
+specialises in computational methods for music theory, analysis, and composition.
 He holds the rare distinction of having been appointed to permanent faculty positions 
 in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
@@ -17,7 +18,8 @@ Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (wher
 
 ## Medium (~200ww)
 
-Mark Gotham holds the rare distinction of having been appointed to faculty positions
+[Mark Gotham](https://markgotham.github.io/)
+holds the rare distinction of having been appointed to faculty positions
 in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
 'in between' (now as 
@@ -35,12 +37,16 @@ Central to much of this is the encoding of
 *computer-readable* formats.
 
 Beyond research, Mark’s work spans commercial contracts, musical composition, and more.
-Commercial contracts have included the “Beethoven X” project for Deutsche Telekom.
+Commercial contracts have included the
+[“Beethoven X” project for Deutsche Telekom](https://www.oneclub.org/awards/theoneshow/-award/43259/beethoven-x-the-ai-project/).
 Composition highlights include broadcasts on BBC Radio 3 and national Chinese television, and the debut CD of Mark’s compositions
-(_Utrumne est Ornatum_, REGCD485) attracting 5-star critical reviews.
+([_Utrumne est Ornatum_, REGCD485](http://www.regent-records.co.uk/product_details_349.htm))
+attracted 5-star critical reviews.
 
 Earlier in his career, Mark was a highly active as a performer (singer, multi-instrumentalist, and conductor).
-Highlights included conducting contemporary music projects with principal players of the Philharmonia Orchestra and LSO.
+Highlights included conducting contemporary music projects with principal players of the 
+[Philharmonia Orchestra](http://www.philharmonia.co.uk/)
+and [LSO](http://lso.co.uk/).
 
 
 ## Long
