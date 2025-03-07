@@ -9,7 +9,8 @@ Please feel free to use any of these in conference proceedings, concerts program
 [Mark Gotham](https://markgotham.github.io/)
 specialises in computational methods for music theory, analysis, and composition.
 He holds the rare distinction of having been appointed to permanent faculty positions 
-in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
+in the humanities
+([Professor of Music Theory at T. U. Dortmund](https://musik.kmst.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen/univ-prof-dr-phil-mark-r-h-gotham/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
 'in between' (now as 
 [Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
@@ -20,7 +21,8 @@ Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (wher
 
 [Mark Gotham](https://markgotham.github.io/)
 holds the rare distinction of having been appointed to faculty positions
-in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
+in the humanities
+([Professor of Music Theory at T. U. Dortmund](https://musik.kmst.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen/univ-prof-dr-phil-mark-r-h-gotham/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
 'in between' (now as 
 [Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
@@ -53,7 +55,8 @@ and [LSO](http://lso.co.uk/).
 
 Mark Gotham specialises in computational methods for music theory, analysis, and composition.
 He holds the rare distinction of having been appointed to faculty positions
-in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
+in the humanities
+([Professor of Music Theory at T. U. Dortmund](https://musik.kmst.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen/univ-prof-dr-phil-mark-r-h-gotham/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
 'in between' (now as 
 [Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
