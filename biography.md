@@ -1,10 +1,10 @@
 ## Biography
 
 Here it all is in prose.
-I use [short](#short), [medium](#medium), and [long](#long) versions depending on the context.
+Below versions of varying (increasing) length.
 Please feel free to use any of these in conference proceedings, concerts programmes etc.
 
-## Short (~75ww)
+## ~100ww
 
 [Mark Gotham](https://markgotham.github.io/)
 specialises in computational methods for music theory, analysis, and composition.
@@ -15,9 +15,32 @@ in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/ac
 'in between' (now as 
 [Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
 in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
-Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
+Commercial contracts have included the
+[“Beethoven X” project for Deutsche Telekom](https://www.oneclub.org/awards/theoneshow/-award/43259/beethoven-x-the-ai-project/)
+and composition highlights include
+[the debut CD of Mark’s compositions attracting 5-star critical reviews](https://www.regent-records.co.uk/product/utrumne-est-ornatum/).
+Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
 
-## Medium (~200ww)
+## ~150ww
+
+Mark Gotham specialises in computational methods for music theory, analysis, and composition.
+He holds the rare distinction of having being appointed to permanent faculty positions 
+in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
+in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
+'in between' (now as 
+[Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
+in the [Digital Humanities Department at KCL](https://www.kcl.ac.uk/ddh)).
+
+Beyond research, Mark’s work spans commercial contracts, musical composition, and more.
+Commercial contracts have included the
+[“Beethoven X” project for Deutsche Telekom](https://www.oneclub.org/awards/theoneshow/-award/43259/beethoven-x-the-ai-project/).
+Composition highlights include broadcasts on BBC Radio 3 and national Chinese television
+and [the debut CD of Mark’s compositions attracting 5-star critical reviews](https://www.regent-records.co.uk/product/utrumne-est-ornatum/).
+Earlier in his career, Mark was a highly active as a performer (singer, multi-instrumentalist, and conductor). Highlights included conducting contemporary music projects with principal players of the Philharmonia Orchestra and LSO.
+
+Mark holds a PhD from Cambridge, MMus from the RNCM, and a BA from Oxford (where he graduated at the top of his cohort).
+
+## ~200ww
 
 [Mark Gotham](https://markgotham.github.io/)
 holds the rare distinction of having been appointed to faculty positions
@@ -39,24 +62,19 @@ Central to much of this is the encoding of
 *computer-readable* formats.
 
 Beyond research, Mark’s work spans commercial contracts, musical composition, and more.
-Commercial contracts have included the
-[“Beethoven X” project for Deutsche Telekom](https://www.oneclub.org/awards/theoneshow/-award/43259/beethoven-x-the-ai-project/).
+Commercial contracts have included the “Beethoven X” project for Deutsche Telekom.
 Composition highlights include broadcasts on BBC Radio 3 and national Chinese television, and the debut CD of Mark’s compositions
-([_Utrumne est Ornatum_, REGCD485](http://www.regent-records.co.uk/product_details_349.htm))
-attracted 5-star critical reviews.
+(_Utrumne est Ornatum_, REGCD485) attracting 5-star critical reviews.
 
 Earlier in his career, Mark was a highly active as a performer (singer, multi-instrumentalist, and conductor).
-Highlights included conducting contemporary music projects with principal players of the 
-[Philharmonia Orchestra](http://www.philharmonia.co.uk/)
-and [LSO](http://lso.co.uk/).
+Highlights included conducting contemporary music projects with principal players of the Philharmonia Orchestra and LSO.
 
 
 ## Long
 
 Mark Gotham specialises in computational methods for music theory, analysis, and composition.
 He holds the rare distinction of having been appointed to faculty positions
-in the humanities
-([Professor of Music Theory at T. U. Dortmund](https://musik.kmst.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen/univ-prof-dr-phil-mark-r-h-gotham/)),
+in the humanities ([Professor of Music Theory at T. U. Dortmund](https://www.musik.tu-dortmund.de/institut/personen/ehemalige-mitarbeiterinnen-und-mitarbeiter/univ-prof-dr-phil-mark-r-h-gotham/univ-prof-dr-phil-mark-r-h-gotham-en/)),
 in STEM (in [Computer Science at Durham](https://www.durham.ac.uk/departments/academic/computer-science/)) and
 'in between' (now as 
 [Senior Lecturer in Cultural Computation](https://www.kcl.ac.uk/people/mark-gotham)
