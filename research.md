@@ -27,6 +27,7 @@ Lists of indexed publications are available in all the usual places: publication
 
 - [ORCID](https://orcid.org/0000-0003-0722-3074) - partly curated by me,
 - [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=bA0PEo0AAAAJ) - automatic and probably the most complete among them,
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55987597200&origin=resultslist) - automatic,
 - [Semantic Scholar](https://www.semanticscholar.org/author/Mark-R.-H.-Gotham/28367380) - automatic,
 - [Web of Science](https://www.webofscience.com/wos/author/record/IUN-5075-2023) - automatic,
 - [Zotero](https://www.zotero.org/markgotham#F5LMS8VP) - curated by me
