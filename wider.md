@@ -10,7 +10,7 @@ On this page:
 - [Crowd-soured collections](#collections), e.g., of CC0 score transcriptions with "OpenScore"
 
 
-## OMT
+## [OMT](#OMT)
 
 [Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)
 is a free, born-digital, online textbook co-authored by several colleagues.
@@ -27,7 +27,7 @@ On OMT|The Data|Research|Note
 These analysis corpora complement (and often benefit from) the score corpora described below.
 
 
-## Collections
+## [OpenScore Collections](#OpenScore)
 
 Since 2018 I've been driving projects create large collections of high-quality musical scores 
 and release them freely
