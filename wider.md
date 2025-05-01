@@ -7,10 +7,10 @@ This page highlights a few of the main projects and how I think that connection 
 On this page:
 
 - [Open Music Theory](#omt) textbook and data-driven anthology
-- [Crowd-soured collections](#collections), e.g., of CC0 score transcriptions with "OpenScore"
+- [Crowd-soured collections](#open-score), e.g., of CC0 score transcriptions with "OpenScore"
 
 
-## [OMT](#OMT)
+## [OMT](#omt)
 
 [Open Music Theory](https://viva.pressbooks.pub/openmusictheory/)
 is a free, born-digital, online textbook co-authored by several colleagues.
@@ -27,7 +27,7 @@ On OMT|The Data|Research|Note
 These analysis corpora complement (and often benefit from) the score corpora described below.
 
 
-## [OpenScore Collections](#OpenScore)
+## [OpenScore Collections](#open-score)
 
 Since 2018 I've been driving projects create large collections of high-quality musical scores 
 and release them freely
